@@ -1,1 +1,10 @@
-language: java
+Level 1: 
+  script: curl -s http://homes.cs.washington.edu/~jamesw96/scripts/intro/level1.sh | bash
+Level 2: 
+  script: curl -s http://homes.cs.washington.edu/~jamesw96/scripts/intro/level2.sh | bash
+Level 3: 
+  script: curl -s http://homes.cs.washington.edu/~jamesw96/scripts/intro/level3.sh | bash
+Level 4:
+  script: curl -s http://homes.cs.washington.edu/~jamesw96/scripts/intro/level4.sh | bash
+Level 5:
+  script: curl -s http://homes.cs.washington.edu/~jamesw96/scripts/intro/level5.sh | bash
