@@ -1,3 +1,5 @@
+language: java
+
 Level 1: 
   script: curl -s http://homes.cs.washington.edu/~jamesw96/scripts/intro/level1.sh | bash
 Level 2: 
